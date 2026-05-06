@@ -31,3 +31,5 @@ packages/
 
 # dotnet tools
 .config/dotnet-tools.json
+
+.ai
