@@ -1,0 +1,33 @@
+# Build output
+bin/
+obj/
+nupkg/
+
+# User-specific
+*.user
+*.suo
+.vs/
+.idea/
+*.DS_Store
+
+# Secrets (never commit)
+appsettings.*.local.json
+secrets.json
+
+# Test results
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Rider / VS Code
+.rider/
+.vscode/
+
+# dotnet tools
+.config/dotnet-tools.json

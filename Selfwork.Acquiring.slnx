@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Selfwork.Acquiring.Client/Selfwork.Acquiring.Client.csproj" />
+    <Project Path="src/Selfwork.Acquiring.Web/Selfwork.Acquiring.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Selfwork.Acquiring.Tests/Selfwork.Acquiring.Tests.csproj" />
+  </Folder>
+</Solution>
